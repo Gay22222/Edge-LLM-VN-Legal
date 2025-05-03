@@ -1,0 +1,80 @@
+{"prompt": "Luật Bảo hiểm xã hội quy định về vấn đề gì?", "response": "Chế độ, chính sách bảo hiểm xã hội; quyền, trách nhiệm của người lao động, người sử dụng lao động; cơ quan, tổ chức liên quan; quỹ bảo hiểm xã hội; thủ tục thực hiện và quản lý nhà nước về bảo hiểm xã hội.", "domain": "Tài chính"}
+{"prompt": "Ai là đối tượng tham gia bảo hiểm xã hội bắt buộc?", "response": "Người lao động Việt Nam làm việc theo hợp đồng lao động, cán bộ, công chức, viên chức, quân nhân, công an, người quản lý doanh nghiệp, hợp tác xã có lương, và người nước ngoài có giấy phép lao động.", "domain": "Tài chính"}
+{"prompt": "Ai tham gia bảo hiểm xã hội tự nguyện?", "response": "Công dân Việt Nam từ 15 tuổi trở lên, không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc.", "domain": "Tài chính"}
+{"prompt": "Bảo hiểm xã hội là gì?", "response": "Sự bảo đảm thay thế hoặc bù đắp một phần thu nhập của người lao động khi giảm hoặc mất thu nhập do ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hết tuổi lao động hoặc chết.", "domain": "Tài chính"}
+{"prompt": "Bảo hiểm xã hội bắt buộc là gì?", "response": "Loại bảo hiểm xã hội do Nhà nước tổ chức, người lao động và người sử dụng lao động phải tham gia.", "domain": "Tài chính"}
+{"prompt": "Bảo hiểm xã hội tự nguyện là gì?", "response": "Loại bảo hiểm xã hội do Nhà nước tổ chức, người tham gia tự chọn mức đóng, phương thức đóng, được hỗ trợ bởi Nhà nước để hưởng hưu trí và tử tuất.", "domain": "Tài chính"}
+{"prompt": "Quỹ bảo hiểm xã hội được hình thành từ đâu?", "response": "Từ đóng góp của người lao động, người sử dụng lao động, hỗ trợ của Nhà nước, và các nguồn thu hợp pháp khác.", "domain": "Tài chính"}
+{"prompt": "Thời gian đóng bảo hiểm xã hội được tính thế nào?", "response": "Từ khi bắt đầu đóng đến khi dừng đóng, nếu không liên tục thì tính tổng thời gian đã đóng.", "domain": "Tài chính"}
+{"prompt": "Các chế độ bảo hiểm xã hội bắt buộc gồm những gì?", "response": "Ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hưu trí, tử tuất.", "domain": "Tài chính"}
+{"prompt": "Các chế độ bảo hiểm xã hội tự nguyện gồm những gì?", "response": "Hưu trí và tử tuất.", "domain": "Tài chính"}
+{"prompt": "Nguyên tắc tính mức hưởng bảo hiểm xã hội là gì?", "response": "Dựa trên mức đóng, thời gian đóng và có sự chia sẻ giữa những người tham gia.", "domain": "Tài chính"}
+{"prompt": "Mức đóng bảo hiểm xã hội bắt buộc được tính dựa trên gì?", "response": "Tiền lương tháng của người lao động.", "domain": "Tài chính"}
+{"prompt": "Mức đóng bảo hiểm xã hội tự nguyện được tính dựa trên gì?", "response": "Mức thu nhập tháng do người lao động lựa chọn.", "domain": "Tài chính"}
+{"prompt": "Quỹ bảo hiểm xã hội được quản lý như thế nào?", "response": "Tập trung, thống nhất, công khai, minh bạch, sử dụng đúng mục đích, hạch toán độc lập theo các quỹ thành phần.", "domain": "Tài chính"}
+{"prompt": "Chính sách Nhà nước về bảo hiểm xã hội là gì?", "response": "Khuyến khích tham gia, hỗ trợ bảo hiểm xã hội tự nguyện, bảo hộ quỹ, ưu tiên công nghệ thông tin trong quản lý.", "domain": "Tài chính"}
+{"prompt": "Ai quản lý nhà nước về bảo hiểm xã hội?", "response": "Chính phủ thống nhất quản lý, Bộ Lao động - Thương binh và Xã hội chịu trách nhiệm trực tiếp.", "domain": "Tài chính"}
+{"prompt": "Nhiệm vụ quản lý nhà nước về bảo hiểm xã hội gồm những gì?", "response": "Ban hành pháp luật, tuyên truyền, thống kê, tổ chức bộ máy, quản lý quỹ, thanh tra, kiểm tra, hợp tác quốc tế.", "domain": "Tài chính"}
+{"prompt": "Cơ quan bảo hiểm xã hội có quyền gì?", "response": "Quản lý nhân sự, tài chính, từ chối yêu cầu không đúng pháp luật, yêu cầu cung cấp thông tin, thanh tra chuyên ngành.", "domain": "Tài chính"}
+{"prompt": "Trách nhiệm của cơ quan bảo hiểm xã hội là gì?", "response": "Tuyên truyền, thu chi, cấp sổ, giải quyết chế độ, công khai thông tin, quản lý quỹ, ứng dụng công nghệ thông tin.", "domain": "Tài chính"}
+{"prompt": "Hành vi nào bị nghiêm cấm trong bảo hiểm xã hội?", "response": "Trốn đóng, chậm đóng, chiếm dụng tiền bảo hiểm, gian lận hồ sơ, sử dụng quỹ sai, cản trở quyền lợi người lao động.", "domain": "Tài chính"}
+{"prompt": "Người lao động có quyền gì trong bảo hiểm xã hội?", "response": "Tham gia, hưởng chế độ, nhận lương hưu, trợ cấp kịp thời, khiếu nại, tố cáo, yêu cầu cung cấp thông tin.", "domain": "Tài chính"}
+{"prompt": "Người lao động có trách nhiệm gì trong bảo hiểm xã hội?", "response": "Đóng bảo hiểm xã hội, lập hồ sơ, bảo quản sổ bảo hiểm xã hội.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động có quyền gì trong bảo hiểm xã hội?", "response": "Từ chối yêu cầu không đúng pháp luật, khiếu nại, tố cáo.", "domain": "Tài chính"}
+{"prompt": "Trách nhiệm của người sử dụng lao động trong bảo hiểm xã hội là gì?", "response": "Lập hồ sơ, đóng bảo hiểm, cung cấp thông tin, niêm yết công khai, phối hợp trả trợ cấp và sổ bảo hiểm.", "domain": "Tài chính"}
+{"prompt": "Điều kiện hưởng chế độ ốm đau là gì?", "response": "Nghỉ việc do ốm đau, tai nạn (không phải tai nạn lao động), có xác nhận của cơ sở y tế có thẩm quyền.", "domain": "Tài chính"}
+{"prompt": "Thời gian tối đa hưởng chế độ ốm đau là bao lâu?", "response": "30 đến 70 ngày tùy thời gian đóng và điều kiện làm việc, tối đa 180 ngày cho bệnh dài ngày.", "domain": "Tài chính"}
+{"prompt": "Mức hưởng chế độ ốm đau là bao nhiêu?", "response": "75% tiền lương tháng trước khi nghỉ, thấp hơn nếu tiếp tục điều trị bệnh dài ngày.", "domain": "Tài chính"}
+{"prompt": "Thời gian nghỉ dưỡng sức sau ốm đau là bao lâu?", "response": "Từ 5 đến 10 ngày trong một năm nếu sức khỏe chưa phục hồi.", "domain": "Tài chính"}
+{"prompt": "Mức hưởng dưỡng sức sau ốm đau là bao nhiêu?", "response": "30% mức lương cơ sở mỗi ngày.", "domain": "Tài chính"}
+{"prompt": "Ai được hưởng chế độ thai sản?", "response": "Lao động nữ mang thai, sinh con, nhận nuôi con nuôi dưới 6 tháng, lao động nam có vợ sinh con.", "domain": "Tài chính"}
+{"prompt": "Điều kiện hưởng chế độ thai sản khi sinh con là gì?", "response": "Đóng bảo hiểm xã hội từ 6 tháng trở lên trong 12 tháng trước khi sinh con.", "domain": "Tài chính"}
+{"prompt": "Thời gian nghỉ thai sản khi sinh con là bao lâu?", "response": "6 tháng, thêm 1 tháng cho mỗi con từ con thứ hai nếu sinh đôi trở lên.", "domain": "Tài chính"}
+{"prompt": "Mức hưởng chế độ thai sản là bao nhiêu?", "response": "100% mức bình quân tiền lương tháng của 6 tháng trước khi nghỉ.", "domain": "Tài chính"}
+{"prompt": "Trợ cấp một lần khi sinh con là bao nhiêu?", "response": "Bằng 2 lần mức lương cơ sở cho mỗi con.", "domain": "Tài chính"}
+{"prompt": "Thời gian nghỉ dưỡng sức sau thai sản là bao lâu?", "response": "Từ 5 đến 10 ngày nếu sức khỏe chưa phục hồi.", "domain": "Tài chính"}
+{"prompt": "Mức hưởng dưỡng sức sau thai sản là bao nhiêu?", "response": "30% mức lương cơ sở mỗi ngày.", "domain": "Tài chính"}
+{"prompt": "Điều kiện hưởng chế độ tai nạn lao động là gì?", "response": "Bị tai nạn tại nơi làm việc, trong giờ làm việc hoặc trên đường đi về, suy giảm khả năng lao động từ 5% trở lên.", "domain": "Tài chính"}
+{"prompt": "Điều kiện hưởng chế độ bệnh nghề nghiệp là gì?", "response": "Bị bệnh thuộc danh mục bệnh nghề nghiệp, suy giảm khả năng lao động từ 5% trở lên.", "domain": "Tài chính"}
+{"prompt": "Mức trợ cấp một lần tai nạn lao động là bao nhiêu?", "response": "Từ 5 lần mức lương cơ sở cho suy giảm 5%, thêm 0,5 lần mỗi 1% suy giảm thêm.", "domain": "Tài chính"}
+{"prompt": "Mức trợ cấp hằng tháng tai nạn lao động là bao nhiêu?", "response": "Từ 30% mức lương cơ sở cho suy giảm 31%, thêm 2% mỗi 1% suy giảm thêm.", "domain": "Tài chính"}
+{"prompt": "Mức trợ cấp phục vụ là bao nhiêu?", "response": "Bằng mức lương cơ sở mỗi tháng cho người suy giảm từ 81% trở lên và bị liệt, mù, hoặc tâm thần.", "domain": "Tài chính"}
+{"prompt": "Điều kiện hưởng lương hưu là gì?", "response": "Đủ 20 năm đóng bảo hiểm xã hội và nam đủ 60 tuổi, nữ đủ 55 tuổi, hoặc các trường hợp đặc biệt.", "domain": "Tài chính"}
+{"prompt": "Mức lương hưu thấp nhất là bao nhiêu?", "response": "Bằng mức lương cơ sở, trừ một số trường hợp đặc biệt.", "domain": "Tài chính"}
+{"prompt": "Ai được hưởng trợ cấp mai táng?", "response": "Người lo mai táng cho người lao động đóng bảo hiểm từ 60 tháng hoặc người đang hưởng lương hưu.", "domain": "Tài chính"}
+{"prompt": "Mức trợ cấp mai táng là bao nhiêu?", "response": "Bằng 10 lần mức lương cơ sở.", "domain": "Tài chính"}
+{"prompt": "Ai được hưởng trợ cấp tuất một lần?", "response": "Thân nhân của người lao động đang đóng, bảo lưu thời gian đóng, hoặc đang hưởng lương hưu khi chết.", "domain": "Tài chính"}
+{"prompt": "Mức trợ cấp tuất một lần được tính thế nào?", "response": "Theo số năm đóng, mỗi năm bằng 1,5 tháng (trước 2014) hoặc 2 tháng (từ 2014) mức bình quân thu nhập đóng.", "domain": "Tài chính"}
+{"prompt": "Sổ bảo hiểm xã hội dùng để làm gì?", "response": "Theo dõi việc đóng, hưởng các chế độ bảo hiểm xã hội.", "domain": "Tài chính"}
+{"prompt": "Hồ sơ đăng ký tham gia bảo hiểm xã hội lần đầu gồm những gì?", "response": "Tờ khai của người sử dụng lao động, danh sách người lao động, tờ khai của người lao động.", "domain": "Tài chính"}
+{"prompt": "Thời hạn cấp sổ bảo hiểm xã hội lần đầu là bao lâu?", "response": "20 ngày cho bảo hiểm bắt buộc, 7 ngày cho bảo hiểm tự nguyện kể từ ngày nhận đủ hồ sơ.", "domain": "Tài chính"}
+{"prompt": "Hồ sơ hưởng chế độ ốm đau gồm những gì?", "response": "Giấy ra viện hoặc giấy chứng nhận nghỉ việc, danh sách người lao động nghỉ hưởng chế độ.", "domain": "Tài chính"}
+{"prompt": "Thời hạn nộp hồ sơ hưởng chế độ ốm đau là bao lâu?", "response": "Trong 45 ngày kể từ ngày trở lại làm việc.", "domain": "Tài chính"}
+{"prompt": "Hồ sơ hưởng chế độ thai sản khi sinh con gồm những gì?", "response": "Bản sao giấy khai sinh, giấy chứng tử nếu con hoặc mẹ chết, giấy xác nhận y tế nếu cần.", "domain": "Tài chính"}
+{"prompt": "Thời hạn giải quyết chế độ thai sản là bao lâu?", "response": "10 ngày kể từ ngày nhận đủ hồ sơ từ người sử dụng lao động.", "domain": "Tài chính"}
+{"prompt": "Hồ sơ hưởng chế độ tai nạn lao động gồm những gì?", "response": "Sổ bảo hiểm xã hội, biên bản điều tra tai nạn, giấy ra viện, biên bản giám định.", "domain": "Tài chính"}
+{"prompt": "Thời hạn giải quyết chế độ tai nạn lao động là bao lâu?", "response": "15 ngày kể từ ngày nhận đủ hồ sơ.", "domain": "Tài chính"}
+{"prompt": "Hồ sơ hưởng lương hưu gồm những gì?", "response": "Sổ bảo hiểm xã hội, quyết định nghỉ việc, biên bản giám định nếu cần.", "domain": "Tài chính"}
+{"prompt": "Thời hạn giải quyết hưởng lương hưu là bao lâu?", "response": "20 ngày kể từ ngày nhận đủ hồ sơ.", "domain": "Tài chính"}
+{"prompt": "Hồ sơ hưởng bảo hiểm xã hội một lần gồm những gì?", "response": "Sổ bảo hiểm xã hội, đơn đề nghị, giấy xác nhận định cư hoặc bệnh án nếu cần.", "domain": "Tài chính"}
+{"prompt": "Thời hạn giải quyết bảo hiểm xã hội một lần là bao lâu?", "response": "10 ngày kể từ ngày nhận đủ hồ sơ.", "domain": "Tài chính"}
+{"prompt": "Hồ sơ hưởng chế độ tử tuất gồm những gì?", "response": "Sổ bảo hiểm xã hội, giấy chứng tử, tờ khai thân nhân, biên bản giám định nếu cần.", "domain": "Tài chính"}
+{"prompt": "Thời hạn giải quyết chế độ tử tuất là bao lâu?", "response": "15 ngày kể từ ngày nhận đủ hồ sơ.", "domain": "Tài chính"}
+{"prompt": "Ai có quyền khiếu nại về bảo hiểm xã hội?", "response": "Người lao động, người sử dụng lao động, người đang hưởng hoặc bảo lưu thời gian đóng.", "domain": "Tài chính"}
+{"prompt": "Thời hiệu khiếu nại về bảo hiểm xã hội là bao lâu?", "response": "Theo quy định của pháp luật về khiếu nại.", "domain": "Tài chính"}
+{"prompt": "Ai có thẩm quyền xử phạt vi phạm về bảo hiểm xã hội?", "response": "Tổng Giám đốc, Giám đốc bảo hiểm xã hội cấp tỉnh, Trưởng đoàn thanh tra chuyên ngành.", "domain": "Tài chính"}
+{"prompt": "Mức lãi chậm đóng bảo hiểm xã hội là bao nhiêu?", "response": "Bằng 2 lần mức lãi suất đầu tư quỹ bảo hiểm xã hội bình quân năm trước.", "domain": "Tài chính"}
+{"prompt": "Các quỹ thành phần của quỹ bảo hiểm xã hội là gì?", "response": "Quỹ ốm đau và thai sản, quỹ tai nạn lao động, bệnh nghề nghiệp, quỹ hưu trí và tử tuất.", "domain": "Tài chính"}
+{"prompt": "Mức đóng bảo hiểm xã hội bắt buộc của người lao động là bao nhiêu?", "response": "8% tiền lương tháng vào quỹ hưu trí và tử tuất.", "domain": "Tài chính"}
+{"prompt": "Mức đóng bảo hiểm xã hội bắt buộc của người sử dụng lao động là bao nhiêu?", "response": "3% quỹ ốm đau và thai sản, 1% quỹ tai nạn lao động, 14% quỹ hưu trí và tử tuất.", "domain": "Tài chính"}
+{"prompt": "Mức đóng bảo hiểm xã hội tự nguyện là bao nhiêu?", "response": "22% mức thu nhập tháng do người lao động lựa chọn.", "domain": "Tài chính"}
+{"prompt": "Phương thức đóng bảo hiểm xã hội tự nguyện là gì?", "response": "Hằng tháng, 3 tháng, 6 tháng, 12 tháng một lần, hoặc một lần cho nhiều năm.", "domain": "Tài chính"}
+{"prompt": "Hội đồng quản lý bảo hiểm xã hội có nhiệm vụ gì?", "response": "Chỉ đạo, giám sát cơ quan bảo hiểm xã hội, tư vấn chính sách, quyết định đầu tư quỹ.", "domain": "Tài chính"}
+{"prompt": "Nguyên tắc đầu tư quỹ bảo hiểm xã hội là gì?", "response": "Bảo đảm an toàn, hiệu quả, thu hồi được vốn đầu tư.", "domain": "Tài chính"}
+{"prompt": "Hình thức đầu tư quỹ bảo hiểm xã hội là gì?", "response": "Mua trái phiếu Chính phủ, gửi tiền tại ngân hàng, cho ngân sách nhà nước vay.", "domain": "Tài chính"}
+{"prompt": "Luật Bảo hiểm xã hội có hiệu lực từ khi nào?", "response": "Ngày 1 tháng 1 năm 2016, trừ một số quy định có hiệu lực từ 1 tháng 1 năm 2018.", "domain": "Tài chính"}
+{"prompt": "Luật Bảo hiểm xã hội bãi bỏ văn bản nào?", "response": "Luật Bảo hiểm xã hội số 71/2006/QH11.", "domain": "Tài chính"}
+{"prompt": "Sổ bảo hiểm xã hội được thay thế bằng gì vào năm 2020?", "response": "Thẻ bảo hiểm xã hội.", "domain": "Tài chính"}
+{"prompt": "Ai chịu trách nhiệm giải quyết khiếu nại lần đầu về bảo hiểm xã hội?", "response": "Cơ quan hoặc người ra quyết định, hành vi bị khiếu nại.", "domain": "Tài chính"}
+{"prompt": "Thanh tra bảo hiểm xã hội do ai thực hiện?", "response": "Thanh tra lao động - thương binh và xã hội, thanh tra tài chính, cơ quan bảo hiểm xã hội.", "domain": "Tài chính"}
+{"prompt": "Báo cáo tình hình thực hiện bảo hiểm xã hội do ai thực hiện?", "response": "Chính phủ báo cáo Quốc hội hằng năm.", "domain": "Tài chính"}

@@ -1,0 +1,80 @@
+{"prompt": "Luật Thuế xuất khẩu, thuế nhập khẩu quy định về vấn đề gì?", "response": "Quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, thời điểm tính thuế, biểu thuế, thuế chống bán phá giá, chống trợ cấp, tự vệ, miễn thuế, giảm thuế, hoàn thuế.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Đối tượng chịu thuế xuất khẩu, nhập khẩu là gì?", "response": "Hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam; từ thị trường trong nước vào khu phi thuế quan hoặc ngược lại; xuất nhập khẩu tại chỗ.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nào không thuộc đối tượng chịu thuế xuất nhập khẩu?", "response": "Hàng hóa quá cảnh, chuyển khẩu, trung chuyển; hàng viện trợ nhân đạo, không hoàn lại; hàng từ khu phi thuế quan ra nước ngoài hoặc chỉ sử dụng trong khu phi thuế quan.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Ai là người nộp thuế xuất khẩu, nhập khẩu?", "response": "Chủ hàng hóa, tổ chức nhận ủy thác, người xuất nhập cảnh có hàng hóa, người được ủy quyền hoặc bảo lãnh nộp thuế thay.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Khu phi thuế quan được định nghĩa thế nào?", "response": "Khu vực kinh tế trong lãnh thổ Việt Nam, có ranh giới xác định, ngăn cách bằng hàng rào cứng, quan hệ mua bán với bên ngoài là xuất nhập khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Phương pháp tính thuế theo tỷ lệ phần trăm là gì?", "response": "Xác định thuế dựa trên phần trăm (%) của trị giá tính thuế hàng hóa xuất nhập khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Phương pháp tính thuế tuyệt đối là gì?", "response": "Án định số tiền thuế nhất định trên một đơn vị hàng hóa xuất nhập khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Phương pháp tính thuế hỗn hợp là gì?", "response": "Áp dụng đồng thời phương pháp tính thuế theo tỷ lệ phần trăm và phương pháp tính thuế tuyệt đối.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế chống bán phá giá là gì?", "response": "Thuế nhập khẩu bổ sung áp dụng khi hàng hóa bán phá giá gây hoặc đe dọa thiệt hại đáng kể cho ngành sản xuất trong nước.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế chống trợ cấp là gì?", "response": "Thuế nhập khẩu bổ sung áp dụng khi hàng hóa được trợ cấp gây hoặc đe dọa thiệt hại đáng kể cho ngành sản xuất trong nước.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế tự vệ là gì?", "response": "Thuế nhập khẩu bổ sung áp dụng khi nhập khẩu hàng hóa quá mức gây hoặc đe dọa thiệt hại nghiêm trọng cho ngành sản xuất trong nước.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Căn cứ tính thuế theo tỷ lệ phần trăm bao gồm gì?", "response": "Trị giá tính thuế và thuế suất theo tỷ lệ phần trăm (%) tại thời điểm tính thuế.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất ưu đãi áp dụng cho hàng hóa nào?", "response": "Hàng hóa nhập khẩu từ nước có quan hệ tối huệ quốc hoặc từ khu phi thuế quan đáp ứng điều kiện xuất xứ tối huệ quốc.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất ưu đãi đặc biệt áp dụng khi nào?", "response": "Áp dụng cho hàng hóa từ nước có thỏa thuận ưu đãi đặc biệt hoặc từ khu phi thuế quan đáp ứng điều kiện xuất xứ ưu đãi đặc biệt.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất thông thường được xác định thế nào?", "response": "Bằng 150% thuế suất ưu đãi của mặt hàng tương ứng, hoặc do Thủ tướng quyết định nếu thuế suất ưu đãi là 0%.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Căn cứ tính thuế tuyệt đối là gì?", "response": "Lượng hàng hóa thực tế xuất nhập khẩu và mức thuế tuyệt đối trên một đơn vị hàng hóa tại thời điểm tính thuế.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế hỗn hợp được tính như thế nào?", "response": "Tổng số tiền thuế theo tỷ lệ phần trăm và số tiền thuế tuyệt đối.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu trong hạn ngạch thuế quan áp dụng thuế suất nào?", "response": "Áp dụng thuế suất hoặc mức thuế tuyệt đối theo quy định tại Luật.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu ngoài hạn ngạch thuế quan áp dụng thuế suất ra sao?", "response": "Áp dụng thuế suất hoặc mức thuế tuyệt đối do cơ quan có thẩm quyền quy định.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Trị giá tính thuế xuất nhập khẩu được xác định thế nào?", "response": "Là trị giá hải quan theo quy định của Luật Hải quan.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thời điểm tính thuế xuất nhập khẩu là khi nào?", "response": "Là thời điểm đăng ký tờ khai hải quan.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thời điểm tính thuế thay đổi trong trường hợp nào?", "response": "Khi hàng hóa thay đổi từ đối tượng không chịu thuế, miễn thuế sang đối tượng chịu thuế, thời điểm tính thuế là khi đăng ký tờ khai hải quan mới.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thời hạn nộp thuế xuất nhập khẩu là khi nào?", "response": "Trước khi thông quan hoặc giải phóng hàng hóa, trừ trường hợp được bảo lãnh hoặc áp dụng chế độ ưu tiên.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thời hạn bảo lãnh nộp thuế tối đa là bao lâu?", "response": "Tối đa 30 ngày kể từ ngày đăng ký tờ khai hải quan.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Người nộp thuế ưu tiên nộp thuế chậm nhất khi nào?", "response": "Chậm nhất vào ngày thứ mười của tháng kế tiếp sau tháng thông quan hoặc giải phóng hàng hóa.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Nguyên tắc ban hành biểu thuế xuất nhập khẩu là gì?", "response": "Khuyến khích nhập nguyên liệu, ưu tiên công nghệ cao, bảo vệ môi trường, phù hợp định hướng kinh tế - xã hội và cam kết quốc tế.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Ai có thẩm quyền ban hành biểu thuế xuất nhập khẩu?", "response": "Chính phủ ban hành biểu thuế xuất khẩu, nhập khẩu ưu đãi, ưu đãi đặc biệt, và danh mục thuế tuyệt đối, thuế hỗn hợp.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Ai quyết định áp dụng thuế chống bán phá giá?", "response": "Bộ Công thương quyết định áp dụng thuế chống bán phá giá.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Điều kiện áp dụng thuế chống bán phá giá là gì?", "response": "Hàng hóa bán phá giá với biên độ xác định, gây hoặc đe dọa thiệt hại đáng kể cho ngành sản xuất trong nước.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thời hạn áp dụng thuế chống bán phá giá là bao lâu?", "response": "Không quá 05 năm, có thể gia hạn nếu cần thiết.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Điều kiện áp dụng thuế chống trợ cấp là gì?", "response": "Hàng hóa được trợ cấp, gây hoặc đe dọa thiệt hại đáng kể cho ngành sản xuất trong nước.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Nguyên tắc áp dụng thuế chống trợ cấp là gì?", "response": "Áp dụng ở mức cần thiết, dựa trên kết luận điều tra, không gây thiệt hại đến lợi ích kinh tế - xã hội.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thời hạn áp dụng thuế chống trợ cấp tối đa là bao lâu?", "response": "Không quá 05 năm, có thể gia hạn nếu cần thiết.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Điều kiện áp dụng thuế tự vệ là gì?", "response": "Hàng hóa nhập khẩu gia tăng đột biến, gây hoặc đe dọa thiệt hại nghiêm trọng cho ngành sản xuất trong nước.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thời hạn áp dụng thuế tự vệ là bao lâu?", "response": "Không quá 04 năm, bao gồm thuế tự vệ tạm thời, có thể gia hạn tối đa 06 năm nếu cần.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Ai quy định việc kê khai, thu, nộp thuế chống bán phá giá?", "response": "Bộ Tài chính quy định việc kê khai, thu, nộp, hoàn trả thuế chống bán phá giá.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nào được miễn thuế xuất nhập khẩu?", "response": "Hàng hóa của tổ chức, cá nhân nước ngoài được ưu đãi, hành lý miễn thuế, quà biếu trong định mức, hàng tạm nhập tái xuất.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu để gia công xuất khẩu có được miễn thuế không?", "response": "Được miễn thuế nhập khẩu và thuế xuất khẩu đối với sản phẩm gia công.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Nguyên liệu nhập khẩu sản xuất xuất khẩu có được miễn thuế không?", "response": "Được miễn thuế nhập khẩu nếu trong nước chưa sản xuất được.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa tạm nhập tái xuất được miễn thuế trong trường hợp nào?", "response": "Miễn thuế nếu dùng cho hội chợ, triển lãm, sửa chữa, bảo hành hoặc chứa hàng hóa.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu tạo tài sản cố định được miễn thuế khi nào?", "response": "Miễn thuế nếu thuộc dự án đầu tư ưu đãi theo quy định pháp luật về đầu tư.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Giống cây trồng nhập khẩu có được miễn thuế không?", "response": "Miễn thuế nếu trong nước chưa sản xuất được và cần thiết theo quy định.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa phục vụ dầu khí có được miễn thuế không?", "response": "Miễn thuế đối với máy móc, thiết bị, vật tư cần thiết trong nước chưa sản xuất được.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa bảo vệ môi trường có được miễn thuế không?", "response": "Miễn thuế nếu là máy móc, thiết bị hoặc sản phẩm từ tái chế chất thải.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa phục vụ giáo dục có được miễn thuế không?", "response": "Miễn thuế nếu là thiết bị chuyên dùng trong nước chưa sản xuất được.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa phục vụ an ninh, quốc phòng được miễn thuế khi nào?", "response": "Miễn thuế nếu là thiết bị chuyên dùng trong nước chưa sản xuất được.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thủ tục miễn thuế được thực hiện thế nào?", "response": "Theo quy định pháp luật về quản lý thuế, có trường hợp cần thông báo trước với hải quan.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa được giảm thuế trong trường hợp nào?", "response": "Hàng hóa bị hư hỏng, mất mát trong quá trình giám sát hải quan, được giám định chứng nhận.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Mức giảm thuế được xác định ra sao?", "response": "Tương ứng với tỷ lệ tổn thất thực tế, nếu hư hỏng toàn bộ thì không phải nộp thuế.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Trường hợp nào được hoàn thuế xuất nhập khẩu?", "response": "Hàng hóa không xuất nhập khẩu, xuất nhập khẩu ít hơn đã nộp thuế, hoặc phải tái xuất, tái nhập.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa tái xuất có được hoàn thuế không?", "response": "Hoàn thuế nhập khẩu và không phải nộp thuế xuất khẩu nếu chưa qua sử dụng, gia công.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa sản xuất xuất khẩu có được hoàn thuế không?", "response": "Hoàn thuế nhập khẩu nếu đã nộp thuế nhưng hàng hóa được xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thủ tục hoàn thuế được thực hiện thế nào?", "response": "Theo quy định của pháp luật về quản lý thuế.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Luật Thuế xuất khẩu, thuế nhập khẩu có hiệu lực từ khi nào?", "response": "Có hiệu lực từ ngày 01 tháng 9 năm 2016.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Dự án ưu đãi thuế trước Luật này được xử lý ra sao?", "response": "Tiếp tục hưởng ưu đãi theo mức cũ hoặc áp dụng mức mới nếu có lợi hơn cho thời gian còn lại.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa tạm nhập tái xuất trước 01/9/2016 được xử lý thế nào?", "response": "Áp dụng quy định miễn thuế của Luật này nếu chưa nộp thuế.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu cá sống là bao nhiêu?", "response": "Từ 0% đến 10% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu cà phê là bao nhiêu?", "response": "Từ 0% đến 5% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu gỗ nhiên liệu là bao nhiêu?", "response": "Từ 5% đến 25% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu than đá là bao nhiêu?", "response": "Từ 10% đến 45% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu quặng sắt là bao nhiêu?", "response": "Từ 15% đến 40% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu kim cương chưa gia công là bao nhiêu?", "response": "Từ 10% đến 40% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu phế liệu đồng là bao nhiêu?", "response": "Từ 20% đến 22% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu sắn là bao nhiêu?", "response": "Từ 0% đến 10% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu trầm hương là bao nhiêu?", "response": "Từ 15% đến 25% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu đá granit là bao nhiêu?", "response": "Từ 10% đến 35% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu dầu thô là bao nhiêu?", "response": "Từ 5% đến 50% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu phân bón là bao nhiêu?", "response": "Từ 0% đến 40% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu cao su tự nhiên là bao nhiêu?", "response": "Từ 0% đến 20% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu da sống động vật là bao nhiêu?", "response": "Từ 5% đến 25% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu vàng chưa gia công là bao nhiêu?", "response": "Từ 0% đến 30% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu than củi là bao nhiêu?", "response": "Từ 5% đến 25%, trừ than gáo dừa từ 0% đến 25%.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu apatít là bao nhiêu?", "response": "Từ 10% đến 40% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Thuế suất xuất khẩu titan là bao nhiêu?", "response": "Từ 10% đến 40% theo biểu thuế xuất khẩu.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa cư dân biên giới được miễn thuế trong trường hợp nào?", "response": "Miễn thuế nếu thuộc danh mục và định mức phục vụ sản xuất, tiêu dùng của cư dân biên giới.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu sản xuất công nghệ thông tin có được miễn thuế không?", "response": "Miễn thuế nếu là nguyên liệu, vật tư, linh kiện trong nước chưa sản xuất được.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu nghiên cứu khoa học được miễn thuế khi nào?", "response": "Miễn thuế nếu là máy móc, thiết bị, tài liệu khoa học chuyên dùng trong nước chưa sản xuất được.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa xuất khẩu khắc phục thiên tai được miễn thuế không?", "response": "Được miễn thuế nếu phục vụ bảo đảm an sinh xã hội, khắc phục thiên tai, dịch bệnh.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu cho đóng tàu được miễn thuế khi nào?", "response": "Miễn thuế nếu là máy móc, nguyên liệu, vật tư trong nước chưa sản xuất được hoặc tạo tài sản cố định.", "domain": "Thuế xuất nhập khẩu"}
+{"prompt": "Hàng hóa nhập khẩu dưới mức tối thiểu có được miễn thuế không?", "response": "Được miễn thuế nếu trị giá hoặc số tiền thuế phải nộp dưới mức tối thiểu.", "domain": "Thuế xuất nhập khẩu"}

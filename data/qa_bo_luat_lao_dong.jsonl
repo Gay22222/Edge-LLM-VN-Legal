@@ -1,0 +1,81 @@
+{"prompt": "Bộ luật Lao động quy định về những vấn đề gì?", "response": "Tiêu chuẩn lao động, quyền, nghĩa vụ của người lao động và người sử dụng lao động, quan hệ lao động, và quản lý nhà nước về lao động.", "domain": "Tài chính"}
+{"prompt": "Ai phải áp dụng Bộ luật Lao động?", "response": "Người lao động, người sử dụng lao động, người lao động nước ngoài tại Việt Nam, và các cơ quan, tổ chức, cá nhân liên quan đến quan hệ lao động.", "domain": "Tài chính"}
+{"prompt": "Người lao động là ai?", "response": "Người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát.", "domain": "Tài chính"}
+{"prompt": "Độ tuổi lao động tối thiểu là bao nhiêu?", "response": "Đủ 15 tuổi, trừ trường hợp đặc biệt quy định tại Mục 1 Chương XI của Bộ luật Lao động.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động là ai?", "response": "Doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân thuê mướn, sử dụng lao động theo thỏa thuận.", "domain": "Tài chính"}
+{"prompt": "Quan hệ lao động là gì?", "response": "Quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao động, trả lương giữa người lao động và người sử dụng lao động.", "domain": "Tài chính"}
+{"prompt": "Cưỡng bức lao động là gì?", "response": "Việc dùng vũ lực, đe dọa hoặc thủ đoạn khác để ép buộc người lao động làm việc trái ý muốn.", "domain": "Tài chính"}
+{"prompt": "Phân biệt đối xử trong lao động là gì?", "response": "Hành vi phân biệt, loại trừ hoặc ưu tiên dựa trên giới tính, độ tuổi, tôn giáo, khuyết tật, hoặc lý do khác gây ảnh hưởng đến bình đẳng cơ hội việc làm.", "domain": "Tài chính"}
+{"prompt": "Quấy rối tình dục tại nơi làm việc là gì?", "response": "Hành vi có tính chất tình dục tại nơi làm việc mà không được người lao động mong muốn hoặc chấp nhận.", "domain": "Tài chính"}
+{"prompt": "Chính sách của Nhà nước về lao động là gì?", "response": "Bảo đảm quyền lợi người lao động, khuyến khích tạo việc làm, nâng cao kỹ năng nghề, thúc đẩy quan hệ lao động hài hòa, và đảm bảo bình đẳng giới.", "domain": "Tài chính"}
+{"prompt": "Quyền của người lao động là gì?", "response": "Lựa chọn việc làm, hưởng lương phù hợp, làm việc an toàn, thành lập tổ chức đại diện, đình công, và các quyền khác theo pháp luật.", "domain": "Tài chính"}
+{"prompt": "Nghĩa vụ của người lao động là gì?", "response": "Thực hiện hợp đồng lao động, chấp hành kỷ luật, nội quy lao động, và tuân thủ pháp luật về lao động, bảo hiểm.", "domain": "Tài chính"}
+{"prompt": "Quyền của người sử dụng lao động là gì?", "response": "Tuyển dụng, quản lý lao động, khen thưởng, xử lý vi phạm, thành lập tổ chức đại diện, và đóng cửa tạm thời nơi làm việc.", "domain": "Tài chính"}
+{"prompt": "Nghĩa vụ của người sử dụng lao động là gì?", "response": "Thực hiện hợp đồng lao động, tôn trọng người lao động, đào tạo nghề, đảm bảo an toàn lao động, và thực hiện quy chế dân chủ.", "domain": "Tài chính"}
+{"prompt": "Hành vi phân biệt đối xử trong lao động có bị nghiêm cấm không?", "response": "Có, phân biệt đối xử trong lao động là hành vi bị nghiêm cấm.", "domain": "Tài chính"}
+{"prompt": "Hành vi quấy rối tình dục tại nơi làm việc có bị nghiêm cấm không?", "response": "Có, quấy rối tình dục tại nơi làm việc là hành vi bị nghiêm cấm.", "domain": "Tài chính"}
+{"prompt": "Việc làm là gì?", "response": "Hoạt động lao động tạo thu nhập mà pháp luật không cấm.", "domain": "Tài chính"}
+{"prompt": "Ai có trách nhiệm giải quyết việc làm?", "response": "Nhà nước, người sử dụng lao động, và xã hội có trách nhiệm tham gia giải quyết việc làm.", "domain": "Tài chính"}
+{"prompt": "Người lao động có quyền gì khi tìm việc làm?", "response": "Tự do lựa chọn việc làm, liên hệ trực tiếp hoặc qua tổ chức dịch vụ việc làm để tìm việc phù hợp.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động tuyển dụng lao động như thế nào?", "response": "Trực tiếp hoặc qua tổ chức dịch vụ việc làm, doanh nghiệp cho thuê lại lao động theo nhu cầu.", "domain": "Tài chính"}
+{"prompt": "Người lao động có phải trả chi phí tuyển dụng không?", "response": "Không, người lao động không phải trả chi phí cho việc tuyển dụng.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng lao động là gì?", "response": "Thỏa thuận giữa người lao động và người sử dụng lao động về việc làm, tiền lương, điều kiện lao động, quyền và nghĩa vụ.", "domain": "Tài chính"}
+{"prompt": "Hình thức hợp đồng lao động là gì?", "response": "Bằng văn bản hoặc thông điệp dữ liệu, trừ hợp đồng dưới 1 tháng có thể thỏa thuận bằng lời nói.", "domain": "Tài chính"}
+{"prompt": "Nguyên tắc giao kết hợp đồng lao động là gì?", "response": "Tự nguyện, bình đẳng, thiện chí, hợp tác, trung thực, và không trái pháp luật.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động có được giữ giấy tờ tùy thân của người lao động không?", "response": "Không, giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động là hành vi bị cấm.", "domain": "Tài chính"}
+{"prompt": "Ai có thẩm quyền giao kết hợp đồng lao động bên phía người lao động?", "response": "Người từ đủ 18 tuổi, người từ 15 đến dưới 18 tuổi với sự đồng ý của người đại diện, hoặc người dưới 15 tuổi cùng người đại diện.", "domain": "Tài chính"}
+{"prompt": "Người lao động có thể giao kết bao nhiêu hợp đồng lao động?", "response": "Có thể giao kết nhiều hợp đồng với nhiều người sử dụng lao động nhưng phải thực hiện đầy đủ nội dung đã thỏa thuận.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng lao động không xác định thời hạn là gì?", "response": "Hợp đồng không xác định thời hạn hoặc thời điểm chấm dứt hiệu lực.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng lao động xác định thời hạn là gì?", "response": "Hợp đồng xác định thời hạn không quá 36 tháng kể từ ngày có hiệu lực.", "domain": "Tài chính"}
+{"prompt": "Nội dung chủ yếu của hợp đồng lao động là gì?", "response": "Thông tin các bên, công việc, địa điểm, thời hạn, lương, thời giờ làm việc, bảo hiểm, đào tạo, và bảo hộ lao động.", "domain": "Tài chính"}
+{"prompt": "Phụ lục hợp đồng lao động có hiệu lực như thế nào?", "response": "Có hiệu lực như hợp đồng lao động, dùng để quy định chi tiết hoặc sửa đổi, bổ sung hợp đồng.", "domain": "Tài chính"}
+{"prompt": "Thời gian thử việc tối đa là bao lâu?", "response": "Không quá 180 ngày cho quản lý doanh nghiệp, 60 ngày cho công việc cần trình độ cao đẳng, 30 ngày cho trung cấp, và 6 ngày cho công việc khác.", "domain": "Tài chính"}
+{"prompt": "Tiền lương thử việc tối thiểu là bao nhiêu?", "response": "Ít nhất bằng 85% mức lương của công việc đó.", "domain": "Tài chính"}
+{"prompt": "Khi kết thúc thử việc, người sử dụng lao động phải làm gì?", "response": "Thông báo kết quả thử việc, tiếp tục hoặc chấm dứt hợp đồng lao động hoặc hợp đồng thử việc.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động có được chuyển người lao động làm công việc khác không?", "response": "Có, trong trường hợp khó khăn đột xuất, nhưng không quá 60 ngày cộng dồn trong 1 năm, trừ khi có sự đồng ý bằng văn bản.", "domain": "Tài chính"}
+{"prompt": "Tiền lương khi chuyển công việc khác phải đảm bảo thế nào?", "response": "Ít nhất bằng 85% tiền lương cũ, không thấp hơn mức lương tối thiểu, và giữ nguyên lương cũ trong 30 ngày nếu lương mới thấp hơn.", "domain": "Tài chính"}
+{"prompt": "Tạm hoãn hợp đồng lao động áp dụng trong trường hợp nào?", "response": "Thực hiện nghĩa vụ quân sự, bị tạm giam, mang thai, hoặc các trường hợp khác do hai bên thỏa thuận.", "domain": "Tài chính"}
+{"prompt": "Làm việc không trọn thời gian là gì?", "response": "Làm việc ngắn hơn thời gian bình thường theo ngày, tuần hoặc tháng theo quy định pháp luật hoặc nội quy lao động.", "domain": "Tài chính"}
+{"prompt": "Người lao động làm việc không trọn thời gian có quyền gì?", "response": "Hưởng lương, bình đẳng quyền lợi, không bị phân biệt đối xử, và được đảm bảo an toàn lao động.", "domain": "Tài chính"}
+{"prompt": "Thời hạn báo trước khi sửa đổi hợp đồng lao động là bao lâu?", "response": "Ít nhất 3 ngày làm việc.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng lao động chấm dứt trong trường hợp nào?", "response": "Hết hạn, hoàn thành công việc, hai bên thỏa thuận, người lao động hoặc người sử dụng lao động đơn phương chấm dứt, hoặc các trường hợp khác theo luật.", "domain": "Tài chính"}
+{"prompt": "Người lao động có quyền đơn phương chấm dứt hợp đồng khi nào?", "response": "Báo trước theo thời hạn luật định hoặc không cần báo trước nếu không được bố trí đúng công việc, không được trả lương đúng hạn, bị ngược đãi, hoặc mang thai.", "domain": "Tài chính"}
+{"prompt": "Thời hạn báo trước khi người lao động chấm dứt hợp đồng là bao lâu?", "response": "45 ngày cho hợp đồng không xác định thời hạn, 30 ngày cho hợp đồng từ 12-36 tháng, 3 ngày cho hợp đồng dưới 12 tháng.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng khi nào?", "response": "Người lao động không hoàn thành công việc, ốm đau lâu dài, đủ tuổi nghỉ hưu, tự ý bỏ việc, hoặc cung cấp thông tin không trung thực.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động không được chấm dứt hợp đồng với ai?", "response": "Người lao động đang ốm đau, nghỉ phép, mang thai, nghỉ thai sản, hoặc nuôi con dưới 12 tháng tuổi.", "domain": "Tài chính"}
+{"prompt": "Đơn phương chấm dứt hợp đồng trái pháp luật là gì?", "response": "Chấm dứt hợp đồng không đúng quy định tại các điều 35, 36, và 37 của Bộ luật Lao động.", "domain": "Tài chính"}
+{"prompt": "Nghĩa vụ của người lao động khi chấm dứt hợp đồng trái pháp luật là gì?", "response": "Không được trợ cấp thôi việc, bồi thường nửa tháng lương và tiền lương cho ngày không báo trước, hoàn trả chi phí đào tạo.", "domain": "Tài chính"}
+{"prompt": "Nghĩa vụ của người sử dụng lao động khi chấm dứt hợp đồng trái pháp luật là gì?", "response": "Nhận lại người lao động, trả lương và bảo hiểm cho thời gian không làm việc, bồi thường ít nhất 2 tháng lương.", "domain": "Tài chính"}
+{"prompt": "Trợ cấp thôi việc được trả khi nào?", "response": "Khi hợp đồng chấm dứt theo các trường hợp luật định và người lao động làm việc từ 12 tháng trở lên, trừ trường hợp đủ điều kiện hưởng lương hưu.", "domain": "Tài chính"}
+{"prompt": "Mức trợ cấp thôi việc là bao nhiêu?", "response": "Mỗi năm làm việc được trợ cấp nửa tháng tiền lương.", "domain": "Tài chính"}
+{"prompt": "Trợ cấp mất việc làm được trả khi nào?", "response": "Khi người lao động mất việc do thay đổi cơ cấu, công nghệ, hoặc lý do kinh tế và làm việc từ 12 tháng trở lên.", "domain": "Tài chính"}
+{"prompt": "Mức trợ cấp mất việc làm là bao nhiêu?", "response": "Mỗi năm làm việc trả 1 tháng tiền lương, nhưng ít nhất bằng 2 tháng lương.", "domain": "Tài chính"}
+{"prompt": "Thời hạn thanh toán khi chấm dứt hợp đồng lao động là bao lâu?", "response": "Trong 14 ngày làm việc, có thể kéo dài không quá 30 ngày trong trường hợp đặc biệt.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng lao động vô hiệu khi nào?", "response": "Khi toàn bộ nội dung vi phạm pháp luật, người ký không đúng thẩm quyền, hoặc công việc bị pháp luật cấm.", "domain": "Tài chính"}
+{"prompt": "Ai có quyền tuyên bố hợp đồng lao động vô hiệu?", "response": "Tòa án nhân dân.", "domain": "Tài chính"}
+{"prompt": "Cho thuê lại lao động là gì?", "response": "Người lao động ký hợp đồng với doanh nghiệp cho thuê lại lao động, sau đó làm việc và chịu sự điều hành của người sử dụng lao động khác.", "domain": "Tài chính"}
+{"prompt": "Tranh chấp lao động là gì?", "response": "Tranh chấp về quyền, nghĩa vụ, lợi ích phát sinh trong quan hệ lao động hoặc liên quan đến quan hệ lao động.", "domain": "Tài chính"}
+{"prompt": "Tranh chấp lao động cá nhân là gì?", "response": "Tranh chấp giữa người lao động với người sử dụng lao động hoặc các tổ chức liên quan về quyền lợi cá nhân.", "domain": "Tài chính"}
+{"prompt": "Tranh chấp lao động tập thể về quyền là gì?", "response": "Tranh chấp về việc hiểu và thực hiện quy định pháp luật, thỏa ước lao động tập thể, hoặc hành vi phân biệt đối xử.", "domain": "Tài chính"}
+{"prompt": "Tranh chấp lao động tập thể về lợi ích là gì?", "response": "Tranh chấp phát sinh trong quá trình thương lượng tập thể hoặc khi một bên từ chối thương lượng.", "domain": "Tài chính"}
+{"prompt": "Nguyên tắc giải quyết tranh chấp lao động là gì?", "response": "Tôn trọng thương lượng, hòa giải, công khai, minh bạch, khách quan, kịp thời, và đúng pháp luật.", "domain": "Tài chính"}
+{"prompt": "Hòa giải viên lao động là ai?", "response": "Người do Chủ tịch Ủy ban nhân dân cấp tỉnh bổ nhiệm để hòa giải tranh chấp lao động.", "domain": "Tài chính"}
+{"prompt": "Thời hạn hòa giải tranh chấp lao động cá nhân là bao lâu?", "response": "Trong 5 ngày làm việc kể từ ngày nhận yêu cầu.", "domain": "Tài chính"}
+{"prompt": "Hội đồng trọng tài lao động do ai thành lập?", "response": "Chủ tịch Ủy ban nhân dân cấp tỉnh.", "domain": "Tài chính"}
+{"prompt": "Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân là bao lâu?", "response": "6 tháng cho hòa giải viên, 9 tháng cho Hội đồng trọng tài, 1 năm cho Tòa án, tính từ ngày phát hiện vi phạm.", "domain": "Tài chính"}
+{"prompt": "Đình công là gì?", "response": "Sự ngừng việc tạm thời, tự nguyện, có tổ chức của người lao động do tổ chức đại diện lãnh đạo để đạt yêu cầu.", "domain": "Tài chính"}
+{"prompt": "Ai có quyền tổ chức đình công?", "response": "Tổ chức đại diện người lao động có quyền thương lượng tập thể.", "domain": "Tài chính"}
+{"prompt": "Trình tự đình công bao gồm những bước nào?", "response": "Lấy ý kiến, ra quyết định đình công, thông báo đình công, và tiến hành đình công.", "domain": "Tài chính"}
+{"prompt": "Thời hạn thông báo đình công là bao lâu?", "response": "Ít nhất 5 ngày làm việc trước ngày bắt đầu đình công.", "domain": "Tài chính"}
+{"prompt": "Đình công bất hợp pháp là gì?", "response": "Đình công không thuộc trường hợp được phép, không do tổ chức có quyền lãnh đạo, hoặc vi phạm trình tự, thủ tục.", "domain": "Tài chính"}
+{"prompt": "Người lao động không tham gia đình công nhưng ngừng việc được hưởng gì?", "response": "Lương ngừng việc và các quyền lợi khác theo pháp luật.", "domain": "Tài chính"}
+{"prompt": "Hành vi cản trở đình công có bị nghiêm cấm không?", "response": "Có, cản trở quyền đình công hoặc ép buộc đình công là hành vi bị nghiêm cấm.", "domain": "Tài chính"}
+{"prompt": "Nội dung quản lý nhà nước về lao động là gì?", "response": "Ban hành pháp luật, thống kê lao động, hỗ trợ quan hệ lao động, kiểm tra, xử lý vi phạm, và hợp tác quốc tế.", "domain": "Tài chính"}
+{"prompt": "Ai chịu trách nhiệm quản lý nhà nước về lao động?", "response": "Chính phủ thống nhất quản lý, Bộ Lao động - Thương binh và Xã hội chịu trách nhiệm trực tiếp.", "domain": "Tài chính"}
+{"prompt": "Thanh tra lao động có nhiệm vụ gì?", "response": "Kiểm tra việc chấp hành pháp luật, điều tra tai nạn lao động, giải quyết khiếu nại, và xử lý vi phạm.", "domain": "Tài chính"}
+{"prompt": "Bộ luật Lao động có hiệu lực từ khi nào?", "response": "Ngày 1 tháng 1 năm 2021.", "domain": "Tài chính"}
+{"prompt": "Bộ luật Lao động bãi bỏ văn bản nào?", "response": "Bộ luật Lao động số 10/2012/QH13.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động dưới 10 lao động được hưởng ưu đãi gì?", "response": "Được miễn, giảm một số thủ tục theo quy định của Chính phủ.", "domain": "Tài chính"}
+{"prompt": "Tiền lương để tính trợ cấp thôi việc được xác định như thế nào?", "response": "Là tiền lương bình quân của 6 tháng liền kề trước khi thôi việc.", "domain": "Tài chính"}
+{"prompt": "Người lao động có quyền từ chối làm việc khi nào?", "response": "Khi có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe.", "domain": "Tài chính"}
+{"prompt": "Người sử dụng lao động phải xây dựng phương án sử dụng lao động khi nào?", "response": "Khi thay đổi cơ cấu, công nghệ, hoặc vì lý do kinh tế ảnh hưởng đến việc làm của nhiều người lao động.", "domain": "Tài chính"}

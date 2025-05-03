@@ -1,0 +1,80 @@
+{"prompt": "Luật Chứng khoán quy định về vấn đề gì?", "response": "Quy định về hoạt động chứng khoán, thị trường chứng khoán; quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán; tổ chức thị trường chứng khoán; quản lý nhà nước về chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Ai phải tuân thủ Luật Chứng khoán?", "response": "Tổ chức, cá nhân Việt Nam và nước ngoài tham gia đầu tư, hoạt động trên thị trường chứng khoán Việt Nam; cơ quan quản lý nhà nước; tổ chức, cá nhân liên quan.", "domain": "Tài chính"}
+{"prompt": "Chứng khoán được định nghĩa thế nào trong Luật?", "response": "Tài sản bao gồm cổ phiếu, trái phiếu, chứng chỉ quỹ, chứng quyền, chứng quyền có bảo đảm, quyền mua cổ phần, chứng chỉ lưu ký, chứng khoán phái sinh, và các loại khác do Chính phủ quy định.", "domain": "Tài chính"}
+{"prompt": "Cổ phiếu là gì theo Luật Chứng khoán?", "response": "Loại chứng khoán xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một phần vốn cổ phần của tổ chức phát hành.", "domain": "Tài chính"}
+{"prompt": "Trái phiếu được định nghĩa ra sao?", "response": "Loại chứng khoán xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một phần nợ của tổ chức phát hành.", "domain": "Tài chính"}
+{"prompt": "Chứng chỉ quỹ là gì?", "response": "Loại chứng khoán xác nhận quyền sở hữu của nhà đầu tư đối với một phần vốn góp của quỹ đầu tư chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Chứng quyền là gì?", "response": "Loại chứng khoán phát hành cùng trái phiếu hoặc cổ phiếu ưu đãi, cho phép người sở hữu quyền mua cổ phiếu phổ thông theo mức giá xác định trong thời gian nhất định.", "domain": "Tài chính"}
+{"prompt": "Chứng khoán phái sinh là gì?", "response": "Công cụ tài chính dưới dạng hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng kỳ hạn, xác nhận quyền, nghĩa vụ về thanh toán tiền hoặc chuyển giao tài sản cơ sở theo giá xác định.", "domain": "Tài chính"}
+{"prompt": "Tài sản cơ sở của chứng khoán phái sinh là gì?", "response": "Chứng khoán, chỉ số chứng khoán hoặc tài sản khác do Chính phủ quy định, dùng để xác định giá trị chứng khoán phái sinh.", "domain": "Tài chính"}
+{"prompt": "Hoạt động chứng khoán bao gồm những gì?", "response": "Chào bán, niêm yết, giao dịch, kinh doanh, đầu tư chứng khoán, cung cấp dịch vụ chứng khoán, công bố thông tin, quản trị công ty đại chúng và các hoạt động khác.", "domain": "Tài chính"}
+{"prompt": "Nhà đầu tư chứng khoán là ai?", "response": "Tổ chức, cá nhân tham gia đầu tư trên thị trường chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Nhà đầu tư chiến lược là gì?", "response": "Nhà đầu tư được Đại hội đồng cổ đông lựa chọn, có năng lực tài chính, công nghệ, cam kết hợp tác với công ty ít nhất 03 năm.", "domain": "Tài chính"}
+{"prompt": "Cổ đông lớn là ai?", "response": "Cổ đông sở hữu từ 5% trở lên số cổ phiếu có quyền biểu quyết của tổ chức phát hành.", "domain": "Tài chính"}
+{"prompt": "Chào bán chứng khoán ra công chúng được thực hiện qua hình thức nào?", "response": "Thông qua phương tiện thông tin đại chúng; chào bán cho từ 100 nhà đầu tư trở lên (không kể nhà đầu tư chuyên nghiệp); chào bán cho nhà đầu tư không xác định.", "domain": "Tài chính"}
+{"prompt": "Chào bán chứng khoán riêng lẻ là gì?", "response": "Chào bán cho dưới 100 nhà đầu tư (không kể nhà đầu tư chuyên nghiệp) hoặc chỉ chào bán cho nhà đầu tư chứng khoán chuyên nghiệp.", "domain": "Tài chính"}
+{"prompt": "Bản cáo bạch là gì?", "response": "Tài liệu hoặc dữ liệu điện tử công khai thông tin chính xác, trung thực, khách quan liên quan đến chào bán hoặc niêm yết chứng khoán của tổ chức phát hành.", "domain": "Tài chính"}
+{"prompt": "Niêm yết chứng khoán là gì?", "response": "Việc đưa chứng khoán đủ điều kiện vào giao dịch trên hệ thống giao dịch cho chứng khoán niêm yết.", "domain": "Tài chính"}
+{"prompt": "Đăng ký giao dịch chứng khoán là gì?", "response": "Việc đưa chứng khoán vào giao dịch trên hệ thống giao dịch cho chứng khoán chưa niêm yết.", "domain": "Tài chính"}
+{"prompt": "Kinh doanh chứng khoán bao gồm những hoạt động nào?", "response": "Môi giới, tự doanh, bảo lãnh phát hành, tư vấn đầu tư, quản lý quỹ, quản lý danh mục đầu tư chứng khoán và cung cấp dịch vụ chứng khoán khác.", "domain": "Tài chính"}
+{"prompt": "Môi giới chứng khoán là gì?", "response": "Việc làm trung gian thực hiện mua, bán chứng khoán cho khách hàng.", "domain": "Tài chính"}
+{"prompt": "Tự doanh chứng khoán là gì?", "response": "Việc công ty chứng khoán mua, bán chứng khoán cho chính mình.", "domain": "Tài chính"}
+{"prompt": "Bảo lãnh phát hành chứng khoán là gì?", "response": "Cam kết nhận mua một phần hoặc toàn bộ chứng khoán để bán lại, hoặc mua số chứng khoán còn lại chưa phân phối hết.", "domain": "Tài chính"}
+{"prompt": "Quỹ đầu tư chứng khoán là gì?", "response": "Quỹ hình thành từ vốn góp của nhà đầu tư để thu lợi nhuận từ đầu tư chứng khoán hoặc tài sản khác, nhà đầu tư không kiểm soát hằng ngày.", "domain": "Tài chính"}
+{"prompt": "Quỹ đại chúng là gì?", "response": "Quỹ đầu tư chứng khoán thực hiện chào bán chứng chỉ quỹ ra công chúng.", "domain": "Tài chính"}
+{"prompt": "Quỹ mở là gì?", "response": "Quỹ đại chúng mà chứng chỉ quỹ phải được mua lại theo yêu cầu của nhà đầu tư.", "domain": "Tài chính"}
+{"prompt": "Quỹ đóng là gì?", "response": "Quỹ đại chúng mà chứng chỉ quỹ không được mua lại theo yêu cầu của nhà đầu tư.", "domain": "Tài chính"}
+{"prompt": "Quỹ thành viên là gì?", "response": "Quỹ đầu tư chứng khoán có từ 02 đến 99 thành viên, chỉ bao gồm nhà đầu tư chứng khoán chuyên nghiệp.", "domain": "Tài chính"}
+{"prompt": "Thông tin nội bộ là gì?", "response": "Thông tin chưa công bố liên quan đến công ty đại chúng, tổ chức niêm yết, quỹ đại chúng, nếu công bố có thể ảnh hưởng lớn đến giá chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Người nội bộ là ai?", "response": "Người giữ vị trí quản trị, điều hành trong công ty đại chúng, quỹ đại chúng, bao gồm Chủ tịch HĐQT, Tổng giám đốc, Kế toán trưởng, thành viên Ban kiểm soát, v.v.", "domain": "Tài chính"}
+{"prompt": "Nhà đầu tư chứng khoán chuyên nghiệp là ai?", "response": "Nhà đầu tư có năng lực tài chính hoặc trình độ chuyên môn, như ngân hàng, công ty chứng khoán, cá nhân có danh mục chứng khoán từ 02 tỷ đồng.", "domain": "Tài chính"}
+{"prompt": "Hành vi nào bị nghiêm cấm trong hoạt động chứng khoán?", "response": "Gian lận, lừa đảo, làm giả tài liệu, sử dụng thông tin nội bộ, thao túng giá chứng khoán, kinh doanh chứng khoán không phép.", "domain": "Tài chính"}
+{"prompt": "Mệnh giá cổ phiếu chào bán ra công chúng là bao nhiêu?", "response": "10 nghìn đồng.", "domain": "Tài chính"}
+{"prompt": "Mệnh giá trái phiếu chào bán ra công chúng là bao nhiêu?", "response": "100 nghìn đồng hoặc bội số của 100 nghìn đồng.", "domain": "Tài chính"}
+{"prompt": "Điều kiện vốn điều lệ để chào bán cổ phiếu lần đầu ra công chúng là gì?", "response": "Tối thiểu 30 tỷ đồng tại thời điểm đăng ký chào bán.", "domain": "Tài chính"}
+{"prompt": "Công ty đại chúng phải có lãi trong bao lâu trước khi chào bán cổ phiếu lần đầu?", "response": "02 năm liên tục liền trước năm đăng ký chào bán, không có lỗ lũy kế.", "domain": "Tài chính"}
+{"prompt": "Tỷ lệ cổ phiếu bán ra công chúng tối thiểu là bao nhiêu?", "response": "15% số cổ phiếu có quyền biểu quyết, hoặc 10% nếu vốn điều lệ từ 1.000 tỷ đồng trở lên.", "domain": "Tài chính"}
+{"prompt": "Ai phải đăng ký chào bán chứng khoán ra công chúng?", "response": "Tổ chức phát hành, cổ đông công ty đại chúng, trừ một số trường hợp được miễn.", "domain": "Tài chính"}
+{"prompt": "Trường hợp nào không cần đăng ký chào bán chứng khoán ra công chúng?", "response": "Chào bán công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh, trái phiếu của tổ chức tài chính quốc tế.", "domain": "Tài chính"}
+{"prompt": "Bản cáo bạch phải bao gồm nội dung gì?", "response": "Thông tin về tổ chức phát hành, đợt chào bán, báo cáo tài chính, rủi ro, phương án sử dụng vốn.", "domain": "Tài chính"}
+{"prompt": "Báo cáo tài chính trong hồ sơ chào bán phải được kiểm toán bởi ai?", "response": "Tổ chức kiểm toán được Ủy ban Chứng khoán Nhà nước chấp thuận.", "domain": "Tài chính"}
+{"prompt": "Công ty đại chúng là gì?", "response": "Công ty cổ phần có vốn điều lệ từ 30 tỷ đồng, có từ 100 cổ đông không kể cổ đông lớn, hoặc đã chào bán chứng khoán ra công chúng.", "domain": "Tài chính"}
+{"prompt": "Sở giao dịch chứng khoán Việt Nam có nhiệm vụ gì?", "response": "Tổ chức, vận hành hệ thống giao dịch chứng khoán niêm yết và chưa niêm yết.", "domain": "Tài chính"}
+{"prompt": "Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam làm gì?", "response": "Tổ chức, vận hành hoạt động đăng ký, lưu ký, bù trừ và thanh toán chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Công ty chứng khoán được phép làm gì?", "response": "Môi giới, tự doanh, bảo lãnh phát hành, tư vấn đầu tư chứng khoán theo giấy phép của Ủy ban Chứng khoán Nhà nước.", "domain": "Tài chính"}
+{"prompt": "Công ty quản lý quỹ đầu tư chứng khoán làm gì?", "response": "Quản lý quỹ đầu tư chứng khoán, quản lý danh mục đầu tư theo ủy thác của nhà đầu tư.", "domain": "Tài chính"}
+{"prompt": "Ngân hàng giám sát có vai trò gì?", "response": "Lưu ký, giám sát hoạt động quản lý quỹ đại chúng, công ty đầu tư chứng khoán, đảm bảo tuân thủ pháp luật.", "domain": "Tài chính"}
+{"prompt": "Ai quản lý nhà nước về chứng khoán?", "response": "Chính phủ thống nhất quản lý, Bộ Tài chính chịu trách nhiệm trực tiếp, Ủy ban Chứng khoán Nhà nước thực hiện quản lý cụ thể.", "domain": "Tài chính"}
+{"prompt": "Ủy ban Chứng khoán Nhà nước có nhiệm vụ gì?", "response": "Tham mưu, quản lý, giám sát, cấp phép, thanh tra, kiểm tra, xử lý vi phạm trong lĩnh vực chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Thanh tra chứng khoán là gì?", "response": "Thanh tra chuyên ngành về chứng khoán và thị trường chứng khoán, do Ủy ban Chứng khoán Nhà nước chỉ đạo.", "domain": "Tài chính"}
+{"prompt": "Hậu quả của vi phạm Luật Chứng khoán là gì?", "response": "Xử phạt hành chính, truy cứu trách nhiệm hình sự, bồi thường thiệt hại tùy mức độ vi phạm.", "domain": "Tài chính"}
+{"prompt": "Mức phạt tiền tối đa cho hành vi thao túng giá chứng khoán là bao nhiêu?", "response": "10 lần khoản thu trái pháp luật, hoặc tối đa 03 tỷ đồng nếu không có thu trái pháp luật.", "domain": "Tài chính"}
+{"prompt": "Ai công bố thông tin định kỳ?", "response": "Công ty đại chúng, tổ chức phát hành trái phiếu ra công chúng, tổ chức niêm yết, công ty chứng khoán, quỹ đại chúng, và các đối tượng khác.", "domain": "Tài chính"}
+{"prompt": "Thông tin định kỳ của công ty đại chúng bao gồm gì?", "response": "Báo cáo tài chính, báo cáo thường niên, báo cáo quản trị công ty, nghị quyết Đại hội đồng cổ đông.", "domain": "Tài chính"}
+{"prompt": "Khi nào công ty đại chúng phải công bố thông tin bất thường?", "response": "Khi có sự kiện như phong tỏa tài khoản, thay đổi đăng ký doanh nghiệp, quyết định mua lại cổ phiếu, hoặc khởi tố.", "domain": "Tài chính"}
+{"prompt": "Cổ đông lớn phải công bố thông tin khi nào?", "response": "Khi sở hữu từ 5% cổ phiếu trở lên, hoặc thay đổi sở hữu qua ngưỡng 1% cổ phiếu có quyền biểu quyết.", "domain": "Tài chính"}
+{"prompt": "Người nội bộ phải công bố thông tin khi nào?", "response": "Trước và sau giao dịch cổ phiếu, quyền mua cổ phiếu, trái phiếu chuyển đổi của công ty đại chúng.", "domain": "Tài chính"}
+{"prompt": "Quỹ hoán đổi danh mục là gì?", "response": "Quỹ mở hình thành từ việc hoán đổi danh mục chứng khoán lấy chứng chỉ quỹ, được niêm yết và giao dịch.", "domain": "Tài chính"}
+{"prompt": "Quỹ đầu tư bất động sản đầu tư vào đâu?", "response": "Chủ yếu vào bất động sản và chứng khoán của tổ chức kinh doanh bất động sản có doanh thu từ bất động sản tối thiểu 65%.", "domain": "Tài chính"}
+{"prompt": "Vốn tối thiểu để thành lập quỹ đại chúng là bao nhiêu?", "response": "50 tỷ đồng.", "domain": "Tài chính"}
+{"prompt": "Quỹ thành viên có bao nhiêu thành viên?", "response": "Từ 02 đến 99 thành viên, chỉ là nhà đầu tư chứng khoán chuyên nghiệp.", "domain": "Tài chính"}
+{"prompt": "Công ty đầu tư chứng khoán được tổ chức dưới hình thức nào?", "response": "Công ty cổ phần, gồm công ty đầu tư chứng khoán riêng lẻ và đại chúng.", "domain": "Tài chính"}
+{"prompt": "Vốn tối thiểu để thành lập công ty đầu tư chứng khoán là bao nhiêu?", "response": "50 tỷ đồng.", "domain": "Tài chính"}
+{"prompt": "Ngân hàng giám sát phải làm gì với tài sản quỹ?", "response": "Lưu ký, quản lý tách biệt tài sản quỹ với tài sản khác, giám sát tuân thủ pháp luật.", "domain": "Tài chính"}
+{"prompt": "Hạn chế đầu tư của quỹ đại chúng là gì?", "response": "Không đầu tư quá 10% chứng khoán của một tổ chức phát hành, không đầu tư quá 20% tài sản vào một tổ chức, trừ trái phiếu Chính phủ.", "domain": "Tài chính"}
+{"prompt": "Quỹ mở phải mua lại chứng chỉ quỹ khi nào?", "response": "Khi nhà đầu tư yêu cầu, trừ trường hợp bất khả kháng hoặc không xác định được giá trị tài sản ròng.", "domain": "Tài chính"}
+{"prompt": "Giá trị tài sản ròng của quỹ được xác định thế nào?", "response": "Dựa trên giá đóng cửa chứng khoán niêm yết, hoặc quy trình định giá trong Điều lệ quỹ, được ngân hàng giám sát xác nhận.", "domain": "Tài chính"}
+{"prompt": "Ai có quyền yêu cầu đình chỉ giao dịch chứng khoán?", "response": "Ủy ban Chứng khoán Nhà nước.", "domain": "Tài chính"}
+{"prompt": "Tranh chấp trong lĩnh vực chứng khoán được giải quyết thế nào?", "response": "Thông qua thương lượng, hòa giải, Trọng tài hoặc Tòa án Việt Nam.", "domain": "Tài chính"}
+{"prompt": "Luật Chứng khoán có hiệu lực từ khi nào?", "response": "Ngày 01 tháng 01 năm 2021.", "domain": "Tài chính"}
+{"prompt": "Luật Chứng khoán bãi bỏ văn bản nào?", "response": "Luật Chứng khoán số 70/2006/QH11 và Luật số 62/2010/QH12 sửa đổi, bổ sung một số điều.", "domain": "Tài chính"}
+{"prompt": "Công ty chứng khoán phải đáp ứng điều kiện gì sau 02 năm kể từ khi Luật có hiệu lực?", "response": "Đáp ứng các điều kiện cấp phép về vốn, cơ cấu tổ chức, an toàn tài chính theo Luật.", "domain": "Tài chính"}
+{"prompt": "Ai ban hành mẫu Bản cáo bạch?", "response": "Bộ trưởng Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Tổ chức kiểm toán được chấp thuận có trách nhiệm gì?", "response": "Báo cáo thay đổi, cung cấp thông tin, thông báo sai phạm trọng yếu của đơn vị được kiểm toán cho Ủy ban Chứng khoán Nhà nước.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng quyền chọn là gì?", "response": "Chứng khoán phái sinh xác nhận quyền mua hoặc bán tài sản cơ sở theo giá xác định, hoặc thanh toán chênh lệch giá.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng tương lai là gì?", "response": "Chứng khoán phái sinh niêm yết, cam kết mua hoặc bán tài sản cơ sở theo giá xác định vào ngày xác định trong tương lai.", "domain": "Tài chính"}
+{"prompt": "Hợp đồng kỳ hạn là gì?", "response": "Chứng khoán phái sinh giao dịch thỏa thuận, cam kết mua hoặc bán tài sản cơ sở theo giá xác định vào ngày xác định.", "domain": "Tài chính"}
+{"prompt": "Nguyên tắc hoạt động chứng khoán là gì?", "response": "Tôn trọng quyền sở hữu, công bằng, công khai, minh bạch, bảo vệ nhà đầu tư, tự chịu rủi ro.", "domain": "Tài chính"}
+{"prompt": "Chính sách phát triển thị trường chứng khoán của Nhà nước là gì?", "response": "Khuyến khích đầu tư, quản lý minh bạch, đầu tư công nghệ, phát triển nguồn nhân lực, phổ biến kiến thức chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Biện pháp bảo đảm an ninh thị trường chứng khoán là gì?", "response": "Giám sát, tạm ngừng giao dịch, phong tỏa tài khoản, cấm đảm nhiệm chức vụ, cấm hoạt động chứng khoán.", "domain": "Tài chính"}
+{"prompt": "Ai có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực chứng khoán?", "response": "Chủ tịch Ủy ban Chứng khoán Nhà nước, Chánh Thanh tra, Trưởng đoàn thanh tra chuyên ngành chứng khoán.", "domain": "Tài chính"}

@@ -1,0 +1,80 @@
+{"prompt": "Luật Phí và Lệ phí quy định về vấn đề gì?", "response": "Quy định về danh mục phí, lệ phí; người nộp, tổ chức thu; nguyên tắc xác định mức thu, miễn, giảm, thu, nộp, quản lý, sử dụng phí, lệ phí; thẩm quyền và trách nhiệm quản lý.", "domain": "Tài chính"}
+{"prompt": "Ai phải tuân thủ Luật Phí và Lệ phí?", "response": "Cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức, cá nhân liên quan đến thu, nộp, quản lý, sử dụng phí, lệ phí.", "domain": "Tài chính"}
+{"prompt": "Phí được định nghĩa thế nào trong Luật Phí và Lệ phí?", "response": "Khoản tiền tổ chức, cá nhân trả để bù đắp chi phí, mang tính phục vụ khi được cung cấp dịch vụ công theo Danh mục phí.", "domain": "Tài chính"}
+{"prompt": "Lệ phí được định nghĩa ra sao trong Luật?", "response": "Khoản tiền ấn định tổ chức, cá nhân nộp khi được cơ quan nhà nước cung cấp dịch vụ công, phục vụ quản lý nhà nước theo Danh mục lệ phí.", "domain": "Tài chính"}
+{"prompt": "Danh mục phí, lệ phí được ban hành ở đâu?", "response": "Ban hành kèm theo Luật Phí và Lệ phí.", "domain": "Tài chính"}
+{"prompt": "Ai có thẩm quyền quy định mức thu phí, lệ phí?", "response": "Ủy ban thường vụ Quốc hội, Chính phủ, Bộ trưởng Bộ Tài chính, Hội đồng nhân dân cấp tỉnh.", "domain": "Tài chính"}
+{"prompt": "Nếu điều ước quốc tế quy định khác với Luật Phí và Lệ phí thì áp dụng thế nào?", "response": "Áp dụng theo quy định của điều ước quốc tế.", "domain": "Tài chính"}
+{"prompt": "Ai là người nộp phí, lệ phí?", "response": "Tổ chức, cá nhân được cung cấp dịch vụ công hoặc phục vụ công việc quản lý nhà nước.", "domain": "Tài chính"}
+{"prompt": "Ai được giao thu phí, lệ phí?", "response": "Cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức được cơ quan nhà nước có thẩm quyền giao.", "domain": "Tài chính"}
+{"prompt": "Nguyên tắc xác định mức thu phí là gì?", "response": "Bù đắp chi phí, phù hợp chính sách kinh tế - xã hội, công bằng, công khai, minh bạch, bình đẳng quyền và nghĩa vụ công dân.", "domain": "Tài chính"}
+{"prompt": "Nguyên tắc xác định mức thu lệ phí là gì?", "response": "Ấn định trước, không bù đắp chi phí, công bằng, công khai, minh bạch, bình đẳng quyền và nghĩa vụ công dân.", "domain": "Tài chính"}
+{"prompt": "Lệ phí trước bạ được tính thế nào?", "response": "Bằng tỷ lệ phần trăm trên giá trị tài sản.", "domain": "Tài chính"}
+{"prompt": "Ai được miễn, giảm phí, lệ phí?", "response": "Trẻ em, hộ nghèo, người cao tuổi, người khuyết tật, người có công với cách mạng, đồng bào dân tộc thiểu số ở vùng khó khăn, và đối tượng đặc biệt khác.", "domain": "Tài chính"}
+{"prompt": "Ai quy định miễn, giảm án phí, lệ phí tòa án?", "response": "Ủy ban thường vụ Quốc hội.", "domain": "Tài chính"}
+{"prompt": "Ai quy định miễn, giảm các khoản phí, lệ phí thuộc thẩm quyền Chính phủ?", "response": "Chính phủ.", "domain": "Tài chính"}
+{"prompt": "Phí, lệ phí có chịu thuế không?", "response": "Không chịu thuế, là khoản thu thuộc ngân sách nhà nước.", "domain": "Tài chính"}
+{"prompt": "Người nộp phí, lệ phí kê khai, nộp theo thời gian nào?", "response": "Theo tháng, quý, năm hoặc từng lần phát sinh.", "domain": "Tài chính"}
+{"prompt": "Hình thức nộp phí, lệ phí là gì?", "response": "Nộp trực tiếp bằng tiền mặt, qua tổ chức tín dụng, tổ chức dịch vụ hoặc hình thức khác theo pháp luật.", "domain": "Tài chính"}
+{"prompt": "Phí, lệ phí thu tại Việt Nam bằng tiền gì?", "response": "Bằng đồng Việt Nam, trừ trường hợp pháp luật cho phép thu bằng ngoại tệ.", "domain": "Tài chính"}
+{"prompt": "Phí thu ở nước ngoài được thu bằng tiền gì?", "response": "Bằng tiền nước sở tại hoặc ngoại tệ tự do chuyển đổi.", "domain": "Tài chính"}
+{"prompt": "Phí do cơ quan nhà nước thu được xử lý thế nào?", "response": "Nộp vào ngân sách nhà nước, nếu được khoán chi phí thì khấu trừ, phần còn lại nộp ngân sách.", "domain": "Tài chính"}
+{"prompt": "Phí do đơn vị sự nghiệp công lập thu được sử dụng ra sao?", "response": "Để lại một phần hoặc toàn bộ để trang trải chi phí cung cấp dịch vụ, phần còn lại nộp ngân sách nhà nước.", "domain": "Tài chính"}
+{"prompt": "Số tiền phí để lại được quản lý thế nào?", "response": "Quản lý, sử dụng theo pháp luật, quyết toán thu chi hàng năm, số dư chuyển sang năm sau.", "domain": "Tài chính"}
+{"prompt": "Phí do tổ chức được giao thu được xử lý thế nào?", "response": "Để lại một phần hoặc toàn bộ để trang trải chi phí, phần còn lại nộp ngân sách nhà nước.", "domain": "Tài chính"}
+{"prompt": "Lệ phí thu được phải xử lý ra sao?", "response": "Nộp đầy đủ, kịp thời vào ngân sách nhà nước.", "domain": "Tài chính"}
+{"prompt": "Chi phí thu lệ phí được lấy từ đâu?", "response": "Do ngân sách nhà nước bố trí trong dự toán của tổ chức thu.", "domain": "Tài chính"}
+{"prompt": "Tổ chức thu phí, lệ phí phải công khai những gì?", "response": "Tên phí, lệ phí, mức thu, phương thức thu, đối tượng nộp, miễn giảm, văn bản quy định tại địa điểm thu và trang thông tin điện tử.", "domain": "Tài chính"}
+{"prompt": "Tổ chức thu phí, lệ phí có trách nhiệm gì về chứng từ?", "response": "Lập và cấp chứng từ thu cho người nộp theo quy định pháp luật.", "domain": "Tài chính"}
+{"prompt": "Tổ chức thu phí, lệ phí phải thực hiện chế độ gì?", "response": "Chế độ kế toán, báo cáo quyết toán thu, nộp, sử dụng, công khai tài chính theo pháp luật.", "domain": "Tài chính"}
+{"prompt": "Tổ chức thu phí, lệ phí có phải hạch toán riêng từng loại không?", "response": "Có, phải hạch toán riêng từng loại phí, lệ phí.", "domain": "Tài chính"}
+{"prompt": "Người nộp phí, lệ phí có trách nhiệm gì?", "response": "Nộp đúng, đủ, kịp thời phí, lệ phí theo quy định pháp luật.", "domain": "Tài chính"}
+{"prompt": "Người nộp phí, lệ phí có quyền gì?", "response": "Nhận chứng từ xác nhận số phí, lệ phí đã nộp.", "domain": "Tài chính"}
+{"prompt": "Hành vi nào bị nghiêm cấm trong thu phí, lệ phí?", "response": "Tự đặt và thu phí, lệ phí; thu, nộp, quản lý, sử dụng trái quy định pháp luật.", "domain": "Tài chính"}
+{"prompt": "Hậu quả của vi phạm quy định về phí, lệ phí là gì?", "response": "Xử lý kỷ luật, phạt hành chính, truy cứu trách nhiệm hình sự tùy mức độ vi phạm.", "domain": "Tài chính"}
+{"prompt": "Ủy ban thường vụ Quốc hội có thẩm quyền gì về phí, lệ phí?", "response": "Quyết định sửa đổi, bổ sung, bãi bỏ phí, lệ phí giữa hai kỳ họp Quốc hội; quy định án phí, lệ phí tòa án.", "domain": "Tài chính"}
+{"prompt": "Chính phủ có trách nhiệm gì về phí, lệ phí?", "response": "Thống nhất quản lý nhà nước, trình sửa đổi phí, lệ phí, quy định mức thu, miễn, giảm, hướng dẫn thực hiện.", "domain": "Tài chính"}
+{"prompt": "Bộ Tài chính có vai trò gì trong quản lý phí, lệ phí?", "response": "Giúp Chính phủ quản lý, ban hành văn bản, quy định mức thu, tổ chức thực hiện, thanh tra, kiểm tra, xử lý vi phạm.", "domain": "Tài chính"}
+{"prompt": "Hội đồng nhân dân cấp tỉnh có thẩm quyền gì?", "response": "Quyết định mức thu, miễn, giảm, thu, nộp, quản lý phí, lệ phí thuộc thẩm quyền.", "domain": "Tài chính"}
+{"prompt": "Ủy ban nhân dân cấp tỉnh có trách nhiệm gì?", "response": "Trình Hội đồng nhân dân quyết định mức thu, tổ chức thực hiện, báo cáo, thanh tra, kiểm tra, giải quyết khiếu nại.", "domain": "Tài chính"}
+{"prompt": "Luật Phí và Lệ phí có hiệu lực từ khi nào?", "response": "Từ ngày 01 tháng 01 năm 2017.", "domain": "Tài chính"}
+{"prompt": "Luật Phí và Lệ phí bãi bỏ văn bản nào?", "response": "Pháp lệnh phí và lệ phí số 38/2001/PL-UBTVQH10 và Pháp lệnh án phí, lệ phí tòa án số 10/2009/PL-UBTVQH12.", "domain": "Tài chính"}
+{"prompt": "Phí kiểm dịch động vật do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí sử dụng đường bộ do ai quy định?", "response": "Bộ Tài chính đối với đường trung ương quản lý; Hội đồng nhân dân cấp tỉnh đối với đường địa phương quản lý.", "domain": "Tài chính"}
+{"prompt": "Phí thẩm định cấp giấy phép hoạt động điện lực do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí thăm quan danh lam thắng cảnh do ai quy định?", "response": "Bộ Tài chính đối với công trình trung ương quản lý; Hội đồng nhân dân cấp tỉnh đối với công trình địa phương quản lý.", "domain": "Tài chính"}
+{"prompt": "Phí bảo vệ môi trường đối với nước thải do ai quy định?", "response": "Chính phủ.", "domain": "Tài chính"}
+{"prompt": "Phí công chứng do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí sở hữu trí tuệ bao gồm những gì?", "response": "Phí thẩm định, tra cứu, công bố, đăng bạ, sử dụng văn bằng bảo hộ sở hữu công nghiệp.", "domain": "Tài chính"}
+{"prompt": "Phí hải quan do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí kiểm định phương tiện phòng cháy chữa cháy do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí sử dụng tần số vô tuyến điện do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí tuyển dụng công chức, viên chức do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí quốc tịch do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí tòa án do ai quy định?", "response": "Ủy ban thường vụ Quốc hội.", "domain": "Tài chính"}
+{"prompt": "Lệ phí trước bạ do ai quy định?", "response": "Chính phủ.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp giấy phép xây dựng do ai quy định?", "response": "Hội đồng nhân dân cấp tỉnh.", "domain": "Tài chính"}
+{"prompt": "Lệ phí đăng ký doanh nghiệp do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí môn bài do ai quy định?", "response": "Chính phủ.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp giấy phép sử dụng tần số vô tuyến điện do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí ra, vào cảng biển do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp chứng chỉ hành nghề luật sư do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp giấy chứng nhận kiểm dịch động vật nhập khẩu do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí thủy lợi chuyển sang cơ chế gì từ ngày 01/01/2017?", "response": "Chuyển sang giá dịch vụ công ích thủy lợi do Nhà nước định giá.", "domain": "Tài chính"}
+{"prompt": "Phí chợ chuyển sang cơ chế gì theo Luật?", "response": "Chuyển sang giá dịch vụ sử dụng diện tích bán hàng tại chợ.", "domain": "Tài chính"}
+{"prompt": "Phí vệ sinh chuyển sang cơ chế gì?", "response": "Chuyển sang giá dịch vụ thu gom, vận chuyển rác thải sinh hoạt.", "domain": "Tài chính"}
+{"prompt": "Ai quy định giá dịch vụ chuyển từ phí sang giá?", "response": "Chính phủ quy định cơ quan có thẩm quyền định giá và hình thức định giá.", "domain": "Tài chính"}
+{"prompt": "Tòa án nhân dân tối cao có trách nhiệm gì về phí, lệ phí?", "response": "Chỉ đạo, hướng dẫn, tổ chức thực hiện, thanh tra, kiểm tra, báo cáo tình hình thu, nộp, quản lý, sử dụng phí, lệ phí trong lĩnh vực quản lý.", "domain": "Tài chính"}
+{"prompt": "Bộ, cơ quan ngang bộ có nhiệm vụ gì về phí, lệ phí?", "response": "Kiến nghị sửa đổi, bổ sung, bãi bỏ phí, lệ phí; đề xuất mức thu, miễn, giảm trong lĩnh vực quản lý.", "domain": "Tài chính"}
+{"prompt": "Phí, lệ phí có phải công khai tài chính không?", "response": "Có, tổ chức thu phải thực hiện chế độ công khai tài chính theo pháp luật.", "domain": "Tài chính"}
+{"prompt": "Phí kiểm nghiệm an toàn thực phẩm nông nghiệp nhập khẩu do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí chứng nhận xuất xứ hàng hóa (C/O) do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí sát hạch lái xe do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí thẩm định cấp giấy phép kinh doanh lữ hành quốc tế do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Phí bảo vệ môi trường đối với khai thác khoáng sản do ai quy định?", "response": "Chính phủ.", "domain": "Tài chính"}
+{"prompt": "Lệ phí đăng ký tàu biển do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp giấy phép nhập khẩu xuất bản phẩm do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp giấy chứng nhận quyền sử dụng đất do ai quy định?", "response": "Hội đồng nhân dân cấp tỉnh.", "domain": "Tài chính"}
+{"prompt": "Phí quản lý, giám sát hoạt động chứng khoán do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
+{"prompt": "Lệ phí cấp giấy phép hoạt động khoáng sản do ai quy định?", "response": "Bộ Tài chính.", "domain": "Tài chính"}
